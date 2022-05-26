@@ -38,4 +38,8 @@ Google Colab Notebook
 
 Matplotlib
 
+Seaborn
+
+Plotly
+
 Sckit-Learn
